@@ -12,7 +12,7 @@ for i in range(0, 6):
     if letters == 'W':
         counter += 1
 
-# if-statement to determine which group the player falls into.klk
+# if-statement to determine which group the player falls into.
 if counter == 0:
     print("-1")
 
