@@ -1,3 +1,5 @@
+# 2020 CCC PROBLEM J3'S SOLUTION:
+
 # receiving input.
 N = int(input())
 
